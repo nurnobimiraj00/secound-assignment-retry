@@ -1,0 +1,51 @@
+.nav-img{
+    width: 25%;
+}
+.helf{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.helf img{
+    width: 110%;
+    position: relative;
+    right: 150px;
+}
+.fast-part-img{
+    position: relative;
+    top: 20px;
+    right: 50px;
+}
+.fast-part-likha{
+    position: relative;
+    top: 150px;
+    left: 170px;
+}
+.bg{
+    background-color: #fff9f4;
+}
+body{
+    margin-top: 0;
+}
+.button{
+    width: 8em;
+    height: 2.5em;
+    border-radius: 5px;
+    background-color: #3b4ce6;
+    color: white;
+    border: 0;
+}
+.last-three-box{
+    height: 120px;
+    width: 550px;    
+    padding: 20px;
+
+}
+.nav-color{
+    background-color: #fff9f4;
+    z-index: 1;
+    width: 100%;
+
+}
+
